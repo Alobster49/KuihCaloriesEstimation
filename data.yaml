@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Kuih lompang', 'Kuih-Ketayap', 'karipap', 'kaswi', 'nona-manis']
+
+roboflow:
+  workspace: kuih-ketayap
+  project: kuih-dataset
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kuih-ketayap/kuih-dataset/dataset/9

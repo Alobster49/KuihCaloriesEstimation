@@ -1,0 +1,8 @@
+# Classes
+names:
+  0: Kuih lompang
+  1: Kuih-Ketayap
+  2: karipap
+  3: kaswi
+  4: nona-manis
+
